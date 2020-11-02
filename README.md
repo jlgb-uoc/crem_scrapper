@@ -13,7 +13,7 @@ En el directorio _/graphs_ se encuentran las gráficas que resumen los datos.
 ## Ultima actualización de los datos
 Los datos todavia no han sido recopilados
 ## Formato de la base de datos
-Los datos recopilados se basan en el estandard [Portable Game Notation](https://es.m.wikipedia.org/wiki/Notaci%C3%B3n_port%C3%A1til_de_partida)
+
 ## Fuentes
 Las páginas web que se utilizaron para recopilar los datos son las siguientes:
 1.
