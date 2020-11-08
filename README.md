@@ -20,6 +20,10 @@ En el directorio _/data_ hay información mas específica de su formato
 Todo el dataset está recopilado desde la web del Centro Regional de Estadística de Murcia, concretamente desde este link:
 https://econet.carm.es/web/crem/informacion-de-la-a-z
 
+## Utilización
+El fichero CREM_scraper.R tiene el codigo necesario para crear todos los ficheros de salida (JSON con las tablas y los 3 archivos .csv)
+Hemos detectado que si la web realiza cambios en su estructura o se añaden ficheos, los datos incluidos en el fichero getnc.R dejan de ser válidos y deben modificarse adecuadamente. Se está trabajando en una versión automatizada de esta función.
+
 ## Licencia
 La licencia escogida para este repositorio es [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) con la intención de que pueda ser usado libremente siempre que no sea usado con fines comerciales y los trabajos derivados sigan manteniendo el mismo tipo de licencia, de manera que se siga comparitiendo el conocimiento.
 Si lo deseas puedes acceder a los [Terminos Legales](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es)
