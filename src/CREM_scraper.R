@@ -1,4 +1,4 @@
-# Funcion que crea un data.frame con los nombres y los links presentes en obj vÃ­a el xpath
+# Funcion que crea un data.frame con los nombres y los links presentes en obj vía el xpath
 extraeLinks <- function(obj, xpath, urlBase=NULL) {
     nodos    = rvest::html_nodes(obj, xpath=xpath)
     nombres  = rvest::html_text(nodos)
@@ -19,19 +19,19 @@ replace_na <- function(tabla,val) {
 
 robotstxt::get_robotstxt(domain= "https://econet.carm.es")
 
-#Leemos la pÃ¡gina base que es la que contiene los enlaces a los grandes temas.
+#Leemos la página base que es la que contiene los enlaces a los grandes temas.
 
 url0 <- "https://econet.carm.es/web/crem/informacion-de-la-a-z"
 html0 <- xml2::read_html(url0)
 
-#Los enlaces a grandes temas aparecen en dos columnas y a cada columna se accede con un xpath diferente. AsÃ­ que accedemos a cada columna por separado y luego las integramos
+#Los enlaces a grandes temas aparecen en dos columnas y a cada columna se accede con un xpath diferente. Así que accedemos a cada columna por separado y luego las integramos
 
 xpath1 = "//div/div/div[1]/div/div/div/div/div/div/div/div[1]/ul/li/a"
 xpath2 = "//div[2]/ul/li/a"
 nivel1 = rbind(extraeLinks(html0, xpath1), 
                extraeLinks(html0, xpath2))
 
-# Para cada uno de los grandes temas leemos el segundo nivel. Guardamos los enlaces junto con los nombres en nivel2. El vector temas1 contiene el nÃºmero del tema principal de cada entrada.
+# Para cada uno de los grandes temas leemos el segundo nivel. Guardamos los enlaces junto con los nombres en nivel2. El vector temas1 contiene el número del tema principal de cada entrada.
 
 for (n1 in 1:nrow(nivel1)) {
     cat("Progreso:",n1, "/", nrow(nivel1), "\n")
@@ -63,7 +63,7 @@ source("getnc.R")
 for (n2 in 1:nrow(nivel2)) {
   
     cat("Progreso:",n2, "/", nrow(nivel2), "\n")
-    if (n2==88) next # excepciÃ³n
+    if (n2==88) next # excepción
     url2 = nivel2[n2,2]
 
     urlBase=url2
@@ -76,9 +76,9 @@ for (n2 in 1:nrow(nivel2)) {
     niv3 = extraeLinks(html2, xpath=xpath, urlBase=urlBase)
 
     # Pero que pasa cuando hay un enlace al cuarto nivel????
-    # Cuales tienen 4Âº nivel pero no graficos?
-    w = which(grepl("Indice",niv3[,2]) & !(grepl("GRÃFICOS",niv3[,1]))) 
-    # para todos ellos, Ã¡brelo y extrae las tablas.
+    # Cuales tienen 4º nivel pero no graficos?
+    w = which(grepl("Indice",niv3[,2]) & !(grepl("GRÁFICOS",niv3[,1]))) 
+    # para todos ellos, ábrelo y extrae las tablas.
 
     for (ww in w) {
        html3 <- xml2::read_html(niv3[ww,2])
@@ -130,7 +130,7 @@ for (tb in 1:length(tablas)) {
     if (is.null(tablas[[tb]])) {
        cat(tb, "/", length(tablas), "\n")
     } else {
-       # Convierto en numÃ©rico las celdillas que cumplen esta regExp 
+       # Convierto en numérico las celdillas que cumplen esta regExp 
        rexpReal = "^(\\+|-)?((\\d*).?)*\\,?(\\d*)$"
        for (r in 1:nrow(tablas[[tb]])) { for (c in 1:ncol(tablas[[tb]])) {
            if (grepl(rexpReal, tablas[[tb]][r,c])) {
@@ -188,7 +188,7 @@ tablas[[listaTab[35]]][17,1]="Caravaca de la Cruz"
 tablas[[listaTab[39]]][17,1]="Caravaca de la Cruz"
 tablas[[listaTab[39]]][40,1]="Torre-Pacheco"
 for (k in c(45:47, 52:54,122)) {
-   tablas[[listaTab[k]]][23,1]="Fuente ÃƒÂlamo"
+   tablas[[listaTab[k]]][23,1]="Fuente Álamo"
    tablas[[listaTab[k]]][35,1]="Puerto Lumbreras"
 }
 
@@ -231,7 +231,7 @@ for (nt in listaTab) {
 }
 names(supertabla) = c("municipio", paste("columna_",2:3260))
 
-# Convierto valores numÃƒÂ©ricos
+# Convierto valores numéricos
 regexp = "^(\\d+)\\.?(\\d+)?$"
 for (cl in 2:ncol(supertabla)) {
     if(all(grepl(regexp,supertabla[,cl]))) {
