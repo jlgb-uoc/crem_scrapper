@@ -2800,7 +2800,27 @@ Indicadores del Sector Agrario;GRÁFICOS;G.4. Evolución de la producción total
 Índices de Valor Unitario del Comercio Exterior;COMERCIO CON EL EXTRANJERO. DATOS MENSUALES.;3. Exportaciones por meses y productos
 Índices de Valor Unitario del Comercio Exterior;COMERCIO CON EL EXTRANJERO. DATOS MENSUALES.;4. Comercio exterior por meses y continentes
 Índices de Valor Unitario del Comercio Exterior;COMERCIO CON EL EXTRANJERO. DATOS MENSUALES.;5. Comercio exterior por meses y Áreas Económicas
-Innovación en las Empresas;2017;1. Principales resultados de la encuesta sobre innovación en las empresas.
+Innovación en las Empresas;DESDE 2018;1. Empresas innovadoras según tipo de innovación (Manual de Oslo 2005) y sede.
+Innovación en las Empresas;DESDE 2018;2. Empresas innovadoras según rama de actividad y tipo de innovación (Manual de Oslo 2005). Sede en la Región de Murcia.
+Innovación en las Empresas;DESDE 2018;3. Empresas y gasto en innovación según tipo de actividad innovadora y sede.
+Innovación en las Empresas;DESDE 2018;4. Empresas innovadoras según tipo de innovación y sede.
+Innovación en las Empresas;DESDE 2018;5. Empresas innovadoras de producto según tipo, desarrollo, ámbito de la innovación y cumplimiento de las expectativas. Sede en la Región de Murcia.
+Innovación en las Empresas;DESDE 2018;6. Impacto económico de las innovaciones de producto según rama de actividad. Sede en Región de Murcia.
+Innovación en las Empresas;DESDE 2018;7. Empresas innovadoras de proceso de negocio según tipo, desarrollo, ámbito de la innovación y cumplimiento de las expectativas. Sede en la Región de Murcia.
+Innovación en las Empresas;DESDE 2018;8. Intensidad de innovación según rama de actividad. Sede en la Región de Murcia.
+Innovación en las Empresas;DESDE 2018;9. Empresas innovadoras según rama de actividad y tipo de innovación. Sede en la Región de Murcia.
+Innovación en las Empresas;DESDE 2018;10. Empresas con actividades innovadoras según rama de actividad y tipo. Sede en la Región de Murcia.
+Innovación en las Empresas;DESDE 2018;11. Porcentaje de empresas según fuente y tipo de financiación. Sede en la Región de Murcia.
+Innovación en las Empresas;DESDE 2018;12. Porcentaje de empresas según tipo de actividad de cooperación. Sede en la Región de Murcia.
+Innovación en las Empresas;DESDE 2018;13. Porcentaje de empresas que cooperaron en innovación según tipo de socio de cooperación. Sede en la Región de Murcia.
+Innovación en las Empresas;DESDE 2018;14. Porcentaje de empresas que cooperaron en innovación según país donde se ubica el socio de cooperación. Sede en la Región de Murcia.
+Innovación en las Empresas;DESDE 2018;15. Distribución porcentual del tipo de socio de cooperación más valioso. Sede en la Región de Murcia.
+Innovación en las Empresas;DESDE 2018;16. Estrategias en el desempeño económico de la empresa. Sede en la Región de Murcia.
+Innovación en las Empresas;DESDE 2018;17. Factores que dificultan la realización de actividades innovadoras. Sede en la Región de Murcia.
+Innovación en las Empresas;DESDE 2018;18. Porcentaje de empresas que co-crearon y/o personalizaron bienes y/o servicios según tipo de producto ofertado y tipo de cliente. Sede en la Región de Murcia.
+Innovación en las Empresas;DESDE 2018;19. Porcentaje de empresas que hacen uso de derechos de la propiedad intelectual según tipo de derechos y tipo de empresa. Sede en la Región de Murcia.
+Innovación en las Empresas;DESDE 2018;20. Porcentaje de empresas que adquieren tecnología según rama de actividad y tipo de tecnología. Sede en la Región de Murcia.
+Innovación en las Empresas;DESDE 2005 A 2017;1. Principales resultados de la encuesta sobre innovación en las empresas.
 Interrupción Voluntaria del Embarazo;TABLAS;1. Evolución de las tasas por 1.000 mujeres entre 15 y 44 años.
 Interrupción Voluntaria del Embarazo;TABLAS;2. Evolución de las interrupciones voluntarias del embarazo según situación laboral de la mujer.
 Interrupción Voluntaria del Embarazo;TABLAS;3. Número de interrupciones según tipo de centro y edad.
@@ -2983,6 +3003,65 @@ Movimiento Laboral Registrado;CONTRATOS DE TRABAJO REGISTRADOS (CNAE-93);4. Cont
 Movimiento Laboral Registrado;CONTRATOS DE TRABAJO REGISTRADOS. SERIE ANUAL;1. Evolución de los contratos de trabajo iniciales y contratos convertidos en indefinidos y adscripciones en colaboración social.
 Movimiento Laboral Registrado;GRÁFICOS;G-1. Evolución de las altas de demanda de empleo y colocaciones.
 Movimiento Laboral Registrado;GRÁFICOS;G-2. Número de contratos de trabajo iniciales según tipo.
+Movimiento Laboral Registrado;GRÁFICOS;G-1. Evolución de las altas de demanda de empleo y colocaciones.
+Movimiento Laboral Registrado;GRÁFICOS;G-2. Número de contratos de trabajo iniciales según tipo.
+Movimiento Laboral Registrado;GRÁFICOS;G-1. Evolución de las altas de demanda de empleo y colocaciones.
+Movimiento Laboral Registrado;GRÁFICOS;G-2. Número de contratos de trabajo iniciales según tipo.
+Movimientos Migratorios;Series;1. Evolución de las inmigraciones totales según nacionalidad y lugar de procedencia.
+Movimientos Migratorios;Series;2. Evolución de las emigraciones totales según nacionalidad y lugar de destino.
+Movimientos Migratorios;Series;3. Evolución de las inmigraciones dentro de España según municipio de destino.
+Movimientos Migratorios;Series;4. Evolución de las emigraciones dentro de España según municipio de procedencia
+Movimientos Migratorios;Series;5. Evolución de las inmigraciones totales según municipio de destino.
+Movimientos Migratorios;Series;6. Evolución de las emigraciones totales según municipio de procedencia.
+Movimientos Migratorios;Series;7. Evolución de los saldos migratorios entre municipios de la Región de Murcia.
+Movimientos Migratorios;Series;8. Evolución de los saldos migratorios entre la Región de Murcia y otras provincias según municipio de procedencia o destino.
+Movimientos Migratorios;Series;9. Evolución de los saldos migratorios entre la Región de Murcia y otras provincias según provincia de procedencia o destino.
+Movimientos Migratorios;Series;10. Evolución de los saldos migratorios dentro de España según municipio de procedencia o destino, por nacionalidad.
+Movimientos Migratorios;Series;11. Evolución de los saldos migratorios totales según municipio de procedencia o destino, por nacionalidad.
+Movimientos Migratorios;Series;1. Evolución de las migraciones interiores según municipio de procedencia
+Movimientos Migratorios;Series;2. Evolución de las migraciones interiores según municipio de destino.
+Movimientos Migratorios;Series;3. Evolución de las migraciones interiores según tamaño del municipio de procedencia
+Movimientos Migratorios;Series;4. Evolución de las migraciones interiores según tamaño del municipio de destino
+Movimientos Migratorios;Series;5. Evolución de las migraciones interiores según lugar de nacimiento en relación a la procedencia y al destino.
+Movimientos Migratorios;Series;6. Evolución de las migraciones interiores según sexo y edad.
+Movimientos Migratorios;Series;7. Evolución de las migraciones interiores según mes.
+Movimientos Migratorios;Series;8. Evolución de las migraciones interiores según país de nacionalidad.
+Movimientos Migratorios;Series;9. Evolución de las migraciones interiores de extranjeros según municipio de procedencia.
+Movimientos Migratorios;Series;10. Evolución de las migraciones interiores de extranjeros según municipio de destino.
+Movimientos Migratorios;Series;1. Evolución de las inmigraciones de otras CC.AA. según provincia de procedencia.
+Movimientos Migratorios;Series;2. Evolución de las inmigraciones de otras CC.AA. según municipio de destino.
+Movimientos Migratorios;Series;3. Evolución de las inmigraciones de otras CC.AA. según tamaño del municipio de procedencia.
+Movimientos Migratorios;Series;4. Evolución de las inmigraciones de otras CC.AA. según tamaño del municipio de destino.
+Movimientos Migratorios;Series;5. Evolución de las inmigraciones de otras CC.AA. según lugar de nacimiento en relación a la procedencia y al destino.
+Movimientos Migratorios;Series;6. Evolución de las inmigraciones de otras CC.AA. según mes.
+Movimientos Migratorios;Series;7. Evolución de las inmigraciones de otras CC.AA. según sexo y edad.
+Movimientos Migratorios;Series;8. Evolución de las inmigraciones de otras CC.AA. según país de nacionalidad.
+Movimientos Migratorios;Series;9. Evolución de las inmigraciones de extranjeros de otras CC.AA. según provincia de procedencia.
+Movimientos Migratorios;Series;10. Evolución de las inmigraciones de extranjeros de otras CC.AA. según municipio de destino.
+Movimientos Migratorios;Series;1. Evolución de las emigraciones a otras CC.AA. según municipio de procedencia.
+Movimientos Migratorios;Series;2. Evolución de las emigraciones a otras CC.AA. según provincia de destino.
+Movimientos Migratorios;Series;3. Evolución de las emigraciones a otras CC.AA. según tamaño del municipio de procedencia.
+Movimientos Migratorios;Series;4. Evolución de las emigraciones a otras CC.AA. según tamaño del municipio de destino.
+Movimientos Migratorios;Series;5. Evolución de las emigraciones a otras CC.AA. según lugar de nacimiento en relación al destino.
+Movimientos Migratorios;Series;6. Evolución de las emigraciones a otras CC.AA. según mes.
+Movimientos Migratorios;Series;7. Evolución de las emigraciones a otras CC.AA. según sexo y edad.
+Movimientos Migratorios;Series;8. Evolución de las emigraciones a otras CC.AA. según país de nacionalidad.
+Movimientos Migratorios;Series;9. Evolución de las emigraciones de extranjeros a otras CC.AA. según municipio de procedencia.
+Movimientos Migratorios;Series;10. Evolución de las emigraciones de extranjeros a otras CC.AA. según provincia de destino.
+Movimientos Migratorios;Series;1. Evolución de las inmigraciones procedentes del extranjero según país de procedencia, por nacionalidad.
+Movimientos Migratorios;Series;2. Evolución de las inmigraciones procedentes del extranjero según municipio de destino, por nacionalidad.
+Movimientos Migratorios;Series;3. Evolución de las inmigraciones procedentes del extranjero según nacionalidad y lugar de nacimiento en relación a la procedencia y al destino.
+Movimientos Migratorios;Series;4. Evolución de las inmigraciones procedentes del extranjero según mes, por nacionalidad.
+Movimientos Migratorios;Series;5. Evolución de las inmigraciones procedentes del extranjero según sexo y edad, por nacionalidad.
+Movimientos Migratorios;Series;6. Evolución de las inmigraciones procedentes del extranjero según país de nacionalidad.
+Movimientos Migratorios;Series;1. Evolución de las emigraciones al extranjero según municipio de procedencia, por nacionalidad.
+Movimientos Migratorios;Series;2. Evolución de las emigraciones al extranjero según país de destino, por nacionalidad.
+Movimientos Migratorios;Series;3. Evolución de las emigraciones al extranjero según lugar de nacimiento en relación a la procedencia y al destino, por nacionalidad.
+Movimientos Migratorios;Series;4. Evolución de las emigraciones al extranjero según mes.
+Movimientos Migratorios;Series;5. Evolución de las emigraciones al extranjero según sexo y edad, por nacionalidad.
+Movimientos Migratorios;Series;6. Evolución de las emigraciones al extranjero según país de nacionalidad.
+Movimiento Laboral Registrado;GRÁFICOS;G-1. Evolución de las altas de demanda de empleo y colocaciones.
+Movimiento Laboral Registrado;GRÁFICOS;G-2. Número de contratos de trabajo iniciales según tipo.
 Movimientos Migratorios;Series;1. Evolución de las inmigraciones totales según nacionalidad y lugar de procedencia.
 Movimientos Migratorios;Series;2. Evolución de las emigraciones totales según nacionalidad y lugar de destino.
 Movimientos Migratorios;Series;3. Evolución de las inmigraciones dentro de España según municipio de destino.
@@ -3127,6 +3206,16 @@ Nacimientos;SERIES;7. Evolución de los nacidos vivos dentro del matrimonio seg�
 Nacimientos;SERIES;8. Evolución de los nacidos vivos según nacionalidad de la madre.
 Nacimientos;SERIES;9. Evolución de los nacimientos según tipo y sexo del nacido.
 Nacimientos;SERIES;10. Evolución de los partos según multiplicidad.
+Nacimientos;SERIES;1. Indicadores.
+Nacimientos;SERIES;2. Evolución de los nacidos vivos según municipio de residencia.
+Nacimientos;SERIES;3. Evolución de los nacidos vivos según edad de la madre.
+Nacimientos;SERIES;4. Evolución de los nacidos vivos según orden del nacimiento.
+Nacimientos;SERIES;5. Evolución de los nacidos vivos según edad de la madre al primer nacimiento.
+Nacimientos;SERIES;6. Evolución de los nacidos vivos según estado civil de la madre.
+Nacimientos;SERIES;7. Evolución de los nacidos vivos dentro del matrimonio según intervalo protogenésico.
+Nacimientos;SERIES;8. Evolución de los nacidos vivos según nacionalidad de la madre.
+Nacimientos;SERIES;9. Evolución de los nacimientos según tipo y sexo del nacido.
+Nacimientos;SERIES;10. Evolución de los partos según multiplicidad.
 Nacimientos;2018;1. Nacidos vivos relacionados con la Región de Murcia según sexo, por lugar de inscripción o residencia.
 Nacimientos;2018;2. Nacidos vivos según mes de nacimiento, por sexo.
 Nacimientos;2018;3. Nacidos vivos según estado civil de la madre.
@@ -3217,6 +3306,32 @@ Padrón Municipal de Habitantes;Avance 2020;8. Población según nacionalidad, s
 Padrón Municipal de Habitantes;Avance 2020;9. Población según nacionalidad y edad, por sexo. Ambos sexos
 Padrón Municipal de Habitantes;Avance 2020;10. Población según nacionalidad y edad, por sexo. Hombres.
 Padrón Municipal de Habitantes;Avance 2020;11. Población según nacionalidad y edad, por sexo. Mujeres.
+Padrón Municipal de Habitantes;Series;1. Evolución de la población según municipios.
+Padrón Municipal de Habitantes;Series;2. Evolución de la población según entidades.
+Padrón Municipal de Habitantes;Series;3. Evolución de la población según sexo y edad.
+Padrón Municipal de Habitantes;Series;4. Evolución de la población según nacionalidad.
+Padrón Municipal de Habitantes;Series;5. Evolución de la población según lugar de nacimiento.
+Padrón Municipal de Habitantes;Series;6. Evolución de la población extranjera según municipios.
+Padrón Municipal de Habitantes;Series;7. Evolución de la población extranjera según entidades.
+Padrón Municipal de Habitantes;Series;8. Evolución de la población extranjera según sexo y edad.
+Padrón Municipal de Habitantes;Series;9. Evolución de la población según zonas básicas de salud, municipio y área de salud.
+Padrón Municipal de Habitantes;Series;10. Evolución de la población nacida en la Región de Murcia que reside en el resto de España, según sexo y edad.
+Padrón Municipal de Habitantes;Series;11. Evolución de la población nacida en la Región de Murcia que reside en el resto de España, según municipio de nacimiento, por sexo.
+Padrón Municipal de Habitantes;Series;12. Evolución de la población nacida en la Región de Murcia que reside en el resto de España, según sexo y nacionalidad.
+Padrón Municipal de Habitantes;Series;13. Evolución de la población nacida en la Región de Murcia que reside en el resto de España, según lugar de residencia, por sexo.
+Padrón Municipal de Habitantes;Series;1. Evolución de la población según municipios.
+Padrón Municipal de Habitantes;Series;2. Evolución de la población según entidades.
+Padrón Municipal de Habitantes;Series;3. Evolución de la población según sexo y edad.
+Padrón Municipal de Habitantes;Series;4. Evolución de la población según nacionalidad.
+Padrón Municipal de Habitantes;Series;5. Evolución de la población según lugar de nacimiento.
+Padrón Municipal de Habitantes;Series;6. Evolución de la población extranjera según municipios.
+Padrón Municipal de Habitantes;Series;7. Evolución de la población extranjera según entidades.
+Padrón Municipal de Habitantes;Series;8. Evolución de la población extranjera según sexo y edad.
+Padrón Municipal de Habitantes;Series;9. Evolución de la población según zonas básicas de salud, municipio y área de salud.
+Padrón Municipal de Habitantes;Series;10. Evolución de la población nacida en la Región de Murcia que reside en el resto de España, según sexo y edad.
+Padrón Municipal de Habitantes;Series;11. Evolución de la población nacida en la Región de Murcia que reside en el resto de España, según municipio de nacimiento, por sexo.
+Padrón Municipal de Habitantes;Series;12. Evolución de la población nacida en la Región de Murcia que reside en el resto de España, según sexo y nacionalidad.
+Padrón Municipal de Habitantes;Series;13. Evolución de la población nacida en la Región de Murcia que reside en el resto de España, según lugar de residencia, por sexo.
 Padrón Municipal de Habitantes;Series;1. Evolución de la población según municipios.
 Padrón Municipal de Habitantes;Series;2. Evolución de la población según entidades.
 Padrón Municipal de Habitantes;Series;3. Evolución de la población según sexo y edad.
@@ -3326,6 +3441,84 @@ Personas Afiliadas al Sistema de la Seguridad Social;SERIES;11. Evolución de la
 Personas Afiliadas al Sistema de la Seguridad Social;SERIES;12. Evolución de las personas afiliadas según sector de actividad por municipio de residencia.
 Personas Afiliadas al Sistema de la Seguridad Social;SERIES;13. Evolución de las personas afiliadas según entidad de residencia y sexo.
 Personas Afiliadas al Sistema de la Seguridad Social;SERIES;14. Evolución de las personas extranjeras afiliadas según nacionalidad.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;1. Evolución de las afiliaciones según sexo y grupo de edad.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;2. Evolución de las afiliaciones según régimen.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;3. Evolución de las afiliaciones según régimen por municipio de residencia.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;4. Evolución de las afiliaciones según sector de actividad.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;5. Evolución de las afiliaciones según sector de actividad por municipio de residencia.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;6. Evolución de las afiliaciones según entidad de residencia y sexo.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;7. Evolución de las afiliaciones extranjeras según nacionalidad.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;8. Evolución de las personas afiliadas según sexo y grupo de edad.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;9. Evolución de las personas afiliadas según régimen.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;10. Evolución de las personas afiliadas según régimen por municipio de residencia.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;11. Evolución de las personas afiliadas según sector de actividad.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;12. Evolución de las personas afiliadas según sector de actividad por municipio de residencia.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;13. Evolución de las personas afiliadas según entidad de residencia y sexo.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;14. Evolución de las personas extranjeras afiliadas según nacionalidad.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;1. Afiliaciones según régimen, actividad y sexo.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;2. Afiliaciones según sexo, grupo de edad y régimen.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;3. Afiliaciones según sexo, nacionalidad y régimen.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;4. Afiliaciones según sexo, nacionalidad y sector de actividad.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;5. Afiliaciones según municipio de residencia y régimen. Ambos sexos.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;6. Afiliaciones según municipio de residencia y régimen. Hombres.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;7. Afiliaciones según municipio de residencia y régimen. Mujeres.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;8. Afiliaciones según municipio de residencia y sector de actividad. Ambos sexos.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;9. Afiliaciones según municipio de residencia y sector de actividad. Hombres.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;10. Afiliaciones según municipio de residencia y sector de actividad. Mujeres.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;11. Afiliaciones extranjeras según municipio de residencia y régimen.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;12. Personas afiliadas según régimen y sexo.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;13. Personas afiliadas según sexo, grupo de edad y régimen.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;14. Personas afiliadas según sexo, nacionalidad y régimen.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;15. Personas afiliadas según sexo, nacionalidad y sector de actividad.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;16. Personas afiliadas según municipio de residencia y régimen. Ambos sexos.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;17. Personas afiliadas según municipio de residencia y régimen. Hombres.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;18. Personas afiliadas según municipio de residencia y régimen. Mujeres.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;19. Personas afiliadas según municipio de residencia y sector de actividad. Ambos sexos.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;20. Personas afiliadas según municipio de residencia y sector de actividad. Hombres.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;21. Personas afiliadas según municipio de residencia y sector de actividad. Mujeres.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;22. Personas afiliadas extranjeras según municipio de residencia y régimen.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;23. Personas afiliadas extranjeras según país de origen y régimen.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;1. Afiliaciones según sexo y edad por tipo de relación laboral.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;2. Afiliaciones según sexo y nacionalidad por tipo de relación laboral.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;3. Afiliaciones por cuenta ajena según sexo, régimen y tipo de contrato.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;4. Afiliaciones por cuenta ajena según sexo, grupo de edad y tipo de contrato.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;5. Afiliaciones por cuenta ajena según sexo, tipo de contrato y sector de actividad.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;6. Afiliaciones por cuenta ajena según sexo, tipo de jornada y régimen.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;7. Afiliaciones por cuenta ajena según grupo de edad y tipo de jornada.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;8. Afiliaciones por cuenta ajena según sexo, tipo de jornada y sector de actividad.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;9. Afiliaciones por cuenta ajena según sexo, grupo de cotización y régimen.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;10. Afiliaciones por cuenta ajena según grupo de cotización y grupo de edad.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;11. Afiliaciones por cuenta ajena según sexo, grupo de cotización y sector de actividad.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;12. Afiliaciones extranjeras por cuenta ajena según sexo, tipo de contrato y régimen.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;13. Afiliaciones extranjeras por cuenta ajena según sexo, tipo de jornada y sector de actividad.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;14. Afiliaciones por cuenta ajena según municipio de residencia, sexo y tipo contrato.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;15. Afiliaciones por cuenta ajena según municipio de residencia, sexo y tipo de jornada.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;16. Afiliaciones en régimen de autónomos según sexo, grupo de edad y sector de actividad.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;17. Afiliaciones en régimen de autónomos según sexo, tipo de autónomo y sector de actividad.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;18. Afiliaciones en régimen de autónomos según sexo, número de asalariados y sector de actividad.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;1. Personas afiliadas según municipio de residencia, sexo y número de afiliaciones.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;2. Personas pluriafiliadas según municipio de residencia y grupo de edad. Ambos sexos.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;3. Personas pluriafiliadas según municipio de residencia y grupo de edad. Hombres.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;4. Personas pluriafiliadas según municipio de residencia y grupo de edad. Mujeres.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;5. Personas pluriafiliadas según nacionalidad y sexo.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;1. Afiliaciones según entidad de residencia y régimen.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;2. Afiliaciones según entidad de residencia y sector de actividad.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;3. Afiliaciones extranjeras según entidad de residencia y régimen.
+Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;4. Afiliaciones extranjeras según entidad de residencia y sector de actividad.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;1. Evolución de las afiliaciones según sexo y grupo de edad.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;2. Evolución de las afiliaciones según régimen.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;3. Evolución de las afiliaciones según régimen por municipio de residencia.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;4. Evolución de las afiliaciones según sector de actividad.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;5. Evolución de las afiliaciones según sector de actividad por municipio de residencia.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;6. Evolución de las afiliaciones según entidad de residencia y sexo.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;7. Evolución de las afiliaciones extranjeras según nacionalidad.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;8. Evolución de las personas afiliadas según sexo y grupo de edad.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;9. Evolución de las personas afiliadas según régimen.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;10. Evolución de las personas afiliadas según régimen por municipio de residencia.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;11. Evolución de las personas afiliadas según sector de actividad.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;12. Evolución de las personas afiliadas según sector de actividad por municipio de residencia.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;13. Evolución de las personas afiliadas según entidad de residencia y sexo.
+Personas Afiliadas al Sistema de la Seguridad Social;SERIES;14. Evolución de las personas extranjeras afiliadas según nacionalidad.
 Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;1. Afiliaciones según régimen, actividad y sexo.
 Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;2. Afiliaciones según sexo, grupo de edad y régimen.
 Personas Afiliadas al Sistema de la Seguridad Social;ULTIMO DATO PUBLICADO. IV TRIMESTRE 2018;3. Afiliaciones según sexo, nacionalidad y régimen.
@@ -3405,6 +3598,17 @@ Personas sin Hogar;PERSONAS SIN HOGAR;8. Evolución del personal de los centros 
 Personas sin Hogar;PERSONAS SIN HOGAR;1. Evolución del número de personas sin hogar según sexo y ubicación del centro.
 Personas sin Hogar;PERSONAS SIN HOGAR;2. Evolución del número de personas sin hogar según edad y ubicación del centro.
 Personas sin Hogar;PERSONAS SIN HOGAR;3. Número de personas sin hogar según nacionalidad y ubicación del centro.
+Personas sin Hogar;ENCUESTA SOBRE LAS PERSONAS SIN HOGAR (CENTROS);1. Evolución del número de centros según tamaño del municipio y tipo de indicador.
+Personas sin Hogar;ENCUESTA SOBRE LAS PERSONAS SIN HOGAR (CENTROS);2. Evolución de la proporción de centros que ofrecen prestaciones según tipo de prestación.
+Personas sin Hogar;ENCUESTA SOBRE LAS PERSONAS SIN HOGAR (CENTROS);3. Evolución de la proporción de centros según tipo de orientación prioritaria del centro.
+Personas sin Hogar;ENCUESTA SOBRE LAS PERSONAS SIN HOGAR (CENTROS);4. Evolución de la proporción de centros según modo de acceso.
+Personas sin Hogar;ENCUESTA SOBRE LAS PERSONAS SIN HOGAR (CENTROS);5. Evolución de la proporción de centros según fuente de financiación.
+Personas sin Hogar;ENCUESTA SOBRE LAS PERSONAS SIN HOGAR (CENTROS);6. Evolución del personal de los centros según dedicación.
+Personas sin Hogar;ENCUESTA SOBRE LAS PERSONAS SIN HOGAR (CENTROS);7. Evolución del personal de los centros según vinculación.
+Personas sin Hogar;ENCUESTA SOBRE LAS PERSONAS SIN HOGAR (CENTROS);8. Evolución del personal de los centros según función.
+Personas sin Hogar;ENCUESTA SOBRE LAS PERSONAS SIN HOGAR (CENTROS);1. Evolución del número de personas sin hogar según sexo y ubicación del centro.
+Personas sin Hogar;ENCUESTA SOBRE LAS PERSONAS SIN HOGAR (CENTROS);2. Evolución del número de personas sin hogar según edad y ubicación del centro.
+Personas sin Hogar;ENCUESTA SOBRE LAS PERSONAS SIN HOGAR (CENTROS);3. Número de personas sin hogar según nacionalidad y ubicación del centro.
 Personas sin Hogar;ENCUESTA SOBRE LAS PERSONAS SIN HOGAR (CENTROS);1. Evolución del número de centros según tamaño del municipio y tipo de indicador.
 Personas sin Hogar;ENCUESTA SOBRE LAS PERSONAS SIN HOGAR (CENTROS);2. Evolución de la proporción de centros que ofrecen prestaciones según tipo de prestación.
 Personas sin Hogar;ENCUESTA SOBRE LAS PERSONAS SIN HOGAR (CENTROS);3. Evolución de la proporción de centros según tipo de orientación prioritaria del centro.
@@ -3497,6 +3701,70 @@ Pesca;OTROS INDICADORES DEL SECTOR AGRARIO;2. Número de trabajadores familiares
 Pesca;OTROS INDICADORES DEL SECTOR AGRARIO;3. Explotaciones con otras actividades lucrativas. Encuesta sobre la Estructura de las Explotaciones Agrícolas.
 Pesca;OTROS INDICADORES DEL SECTOR AGRARIO;4. Unidades de trabajo al año (UTA) según tamaño de la explotación. Censo Agrario.
 Pesca;OTROS INDICADORES DEL SECTOR AGRARIO;5. Unidades de trabajo al año (UTA) según municipios y tipo de explotación. Censo Agrario.
+Pesca;GRÁFICOS;G.1.a. Distribución general de la tierra.
+Pesca;GRÁFICOS;G.1.b. Distribución de las tierras de cultivo en secano y regadío.
+Pesca;GRÁFICOS;G.2. Evolución de las tierras de cultivo en regadío.
+Pesca;GRÁFICOS;G.3.a. Evolución de la pesca desembarcada (peso).
+Pesca;GRÁFICOS;G.3.b. Evolución de la pesca desembarcada (valor).
+Pesca;GRÁFICOS;G.4. Evolución de la producción total, V.A.B. CF y renta agraria.
+Pesca;GRÁFICOS;G.1.a. Distribución general de la tierra.
+Pesca;GRÁFICOS;G.1.b. Distribución de las tierras de cultivo en secano y regadío.
+Pesca;GRÁFICOS;G.2. Evolución de las tierras de cultivo en regadío.
+Pesca;GRÁFICOS;G.3.a. Evolución de la pesca desembarcada (peso).
+Pesca;GRÁFICOS;G.3.b. Evolución de la pesca desembarcada (valor).
+Pesca;GRÁFICOS;G.4. Evolución de la producción total, V.A.B. CF y renta agraria.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;1. Evolución del gasto total, gastos medios e índice sobre la media del gasto medio por persona.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;2. Evolución del gasto total anual de los hogares y su distribución porcentual, según grupos de gasto (2 dígitos ECOICOP/EPF).
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;3. Evolución del gasto total anual de los hogares y su distribución porcentual, según subgrupos de gasto (3 dígitos ECOICOP/EPF).
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;4. Evolución del gasto total anual de los hogares y su distribución porcentual, según códigos de gasto (4 dígitos ECOICOP/EPF).
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;5. Evolución de los gastos medios anuales por hogar, por persona y por unidad de consumo, según grupos de gasto (2 dígitos ECOICOP/EPF).
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;6. Evolución de los gastos medios anuales por hogar, por persona y por unidad de consumo, según subgrupos de gasto (3 dígitos ECOICOP/EPF).
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;7. Evolución de los gastos medios anuales por hogar, por persona y por unidad de consumo, según códigos de gasto (4 dígitos ECOICOP/EPF).
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;8. Gasto anual de los hogares, gastos medios, distribución e índice según edad del sustentador principal.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;9. Gasto anual de los hogares, gastos medios, distribución e índice según nivel de formación del sustentador principal.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;10. Gasto anual de los hogares, gastos medios, distribución e índice, según situación en la actividad del sustentador principal.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;11. Gasto anual de los hogares, gastos medios, distribución e índice según la situación profesional del sustentador principal.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;12. Gasto anual de los hogares, gastos medios, distribución e índice según ocupación del sustentador principal.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;13. Gasto anual de los hogares, gastos medios, distribución e índice según composición del hogar.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;14. Gasto anual de los hogares, gastos medios, distribución e índice según tipo de hogar.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;15. Gasto anual de los hogares, gastos medios, distribución e índice según principal fuente de ingresos del hogar.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;16. Gasto anual de los hogares, gastos medios, distribución e índice según nivel de ingresos del hogar.
+Pesca;GRÁFICOS;G.1.a. Distribución general de la tierra.
+Pesca;GRÁFICOS;G.1.b. Distribución de las tierras de cultivo en secano y regadío.
+Pesca;GRÁFICOS;G.2. Evolución de las tierras de cultivo en regadío.
+Pesca;GRÁFICOS;G.3.a. Evolución de la pesca desembarcada (peso).
+Pesca;GRÁFICOS;G.3.b. Evolución de la pesca desembarcada (valor).
+Pesca;GRÁFICOS;G.4. Evolución de la producción total, V.A.B. CF y renta agraria.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;1. Evolución del gasto total, gastos medios e índice sobre la media del gasto medio por persona.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;2. Evolución del gasto total anual de los hogares y su distribución porcentual, según grupos de gasto (2 dígitos ECOICOP/EPF).
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;3. Evolución del gasto total anual de los hogares y su distribución porcentual, según subgrupos de gasto (3 dígitos ECOICOP/EPF).
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;4. Evolución del gasto total anual de los hogares y su distribución porcentual, según códigos de gasto (4 dígitos ECOICOP/EPF).
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;5. Evolución de los gastos medios anuales por hogar, por persona y por unidad de consumo, según grupos de gasto (2 dígitos ECOICOP/EPF).
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;6. Evolución de los gastos medios anuales por hogar, por persona y por unidad de consumo, según subgrupos de gasto (3 dígitos ECOICOP/EPF).
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;7. Evolución de los gastos medios anuales por hogar, por persona y por unidad de consumo, según códigos de gasto (4 dígitos ECOICOP/EPF).
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;8. Gasto anual de los hogares, gastos medios, distribución e índice según edad del sustentador principal.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;9. Gasto anual de los hogares, gastos medios, distribución e índice según nivel de formación del sustentador principal.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;10. Gasto anual de los hogares, gastos medios, distribución e índice, según situación en la actividad del sustentador principal.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;11. Gasto anual de los hogares, gastos medios, distribución e índice según la situación profesional del sustentador principal.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;12. Gasto anual de los hogares, gastos medios, distribución e índice según ocupación del sustentador principal.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;13. Gasto anual de los hogares, gastos medios, distribución e índice según composición del hogar.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;14. Gasto anual de los hogares, gastos medios, distribución e índice según tipo de hogar.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;15. Gasto anual de los hogares, gastos medios, distribución e índice según principal fuente de ingresos del hogar.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011. ECOICOP.;16. Gasto anual de los hogares, gastos medios, distribución e índice según nivel de ingresos del hogar.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011;1. Evolución del gasto total, gastos medios e índice sobre la media del gasto medio por persona.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011;2. Evolución del gasto medio por hogar y por persona según grupos de gasto.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011;3. Evolución de la distribución porcentual del gasto total según grupos de gasto.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011;4. Evolución del gasto total anual de los hogares y su distribución porcentual según subgrupos.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011;5. Evolución de los gastos medios anuales según subgrupos.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011;6. Evolución del gasto anual de los hogares según edad del sustentador principal.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011;7. Evolución del gasto anual de los hogares según nivel de formación del sustentador principal.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011;8. Evolución del gasto anual de los hogares según situación en la actividad del sustentador principal.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011;9. Evolución del gasto anual de los hogares según la situación profesional del sustentador principal.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011;10. Evolución del gasto anual de los hogares según ocupación del sustentador principal.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011;11. Evolución del gasto anual de los hogares según composición del hogar.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011;12. Evolución del gasto anual de los hogares según tipo de hogar.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011;13. Evolución del gasto anual de los hogares según principal fuente de ingresos del hogar.
+Presupuestos Familiares;ENCUESTA DE PRESUPUESTOS FAMILIARES. BASE 2006. BASE POBLACIONAL 2011;14. Evolución del gasto anual de los hogares según nivel de ingresos del hogar.
 Pesca;GRÁFICOS;G.1.a. Distribución general de la tierra.
 Pesca;GRÁFICOS;G.1.b. Distribución de las tierras de cultivo en secano y regadío.
 Pesca;GRÁFICOS;G.2. Evolución de las tierras de cultivo en regadío.
@@ -3824,6 +4092,7 @@ Transmisiones de Derechos de la Propiedad;ESTADÍSTICA DE TRANSMISIONES DE DEREC
 Transmisiones de Derechos de la Propiedad;ESTADÍSTICA DE TRANSMISIONES DE DERECHOS DE LA PROPIEDAD. DATOS ANUALES;7. Fincas rústicas, urbanas y viviendas transmitidas según zonas y título de adquisición.
 Transmisiones de Derechos de la Propiedad;ESTADÍSTICA DE TRANSMISIONES DE DERECHOS DE LA PROPIEDAD. DATOS ANUALES;8. Compraventa de viviendas según zonas y estado de la vivienda.
 Transmisiones de Derechos de la Propiedad;ESTADÍSTICA DE TRANSMISIONES DE DERECHOS DE LA PROPIEDAD. DATOS ANUALES;9. Compraventa de viviendas según zonas y régimen de la vivienda.
+Transportes y Comunicaciones;TRANSPORTE URBANO REGULAR;1. Transporte urbano regular de viajeros.
 Transportes y Comunicaciones;TRANSPORTE URBANO REGULAR;1. Transporte urbano regular de viajeros.
 Transportes y Comunicaciones;TRANSPORTE Y COMUNICACIONES;1. Red de carreteras. Evolución de las carreteras según dependencia y categorías.
 Transportes y Comunicaciones;TRANSPORTE Y COMUNICACIONES;2. Red de carreteras. Características cualitativas de las carreteras según dependencia.
