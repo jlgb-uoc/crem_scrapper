@@ -11,7 +11,7 @@ En el directorio _/data_ se encuentra la base de datos final (subida a Zenodo po
 En el directorio _/tables_ se encuentran las tablas resumen de los datos.
 
 ## Ultima actualización de los datos
-2 de Noviembre de 2020
+8 de Noviembre de 2020
 ## Formato del dataset
 El dataset se compone de un solo fichero JSON.
 En el directorio _/data_ hay información mas específica de su formato
