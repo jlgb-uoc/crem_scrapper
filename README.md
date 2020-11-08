@@ -2,7 +2,7 @@
 ## Motivación
 Este repositorio se crea para la Práctica 1 de la asignatura _Tipología y ciclo de vida de los datos_ del Master of Data Science de la UOC y pretende a la vez demostrar las capacidades de Web Scrapping y recopilar datos útiles de la base de datos del Centro Regional de Estadistica de Murcia
 ## Miembros
-Este repositorio ha sido creado por Jose Luis Garcia Bravo y Francisco Alonso Sarría
+Este repositorio ha sido creado por Jose Luis Garcia Bravo y Francisco Alonso Sarria
 ## Organización del repositorio
 En el directorio _/src_ se encuentran los ficheros fuentes usados para recopilar los datos.
 
